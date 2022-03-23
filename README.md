@@ -1,2 +1,2 @@
 # raspi
-Scripts and Configs for Utilising my Raspi 
+Scripts and configs for utilising my Raspi 
